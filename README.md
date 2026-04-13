@@ -1,21 +1,21 @@
-# 🚀 Spring Boot Learning Project
+#  Spring Boot Learning Project
 
 This repository contains my **daily learning progress in Spring Boot**.
 I am consistently building and improving this project to strengthen my backend development skills.
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 This project is a hands-on implementation of concepts I am learning in **Spring Boot**.
 It includes REST APIs, database integration, and backend logic development.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-* Java ☕
-* Spring Boot 🚀
+* Java 
+* Spring Boot 
 * Spring Web
 * Spring Data JPA / MongoDB
 * Maven
@@ -23,17 +23,17 @@ It includes REST APIs, database integration, and backend logic development.
 
 ---
 
-## ✨ Features Implemented
+##  Features Implemented
 
-* ✅ REST API development
-* ✅ CRUD Operations
-* ✅ Database Integration
-* ✅ Exception Handling
-* ⏳ More features coming soon...
+*  REST API development
+*  CRUD Operations
+*  Database Integration
+*  Exception Handling
+*  More features coming soon...
 
 ---
 
-## 📅 Daily Progress
+##  Daily Progress
 
 I update this repository regularly as I learn new concepts.
 
@@ -47,7 +47,7 @@ I update this repository regularly as I learn new concepts.
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
 
@@ -71,11 +71,11 @@ I update this repository regularly as I learn new concepts.
 
 ---
 
-## 📸 Screenshots (Will Add Soon)
+##  Screenshots (Will Add Soon)
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 * Improve backend development skills
 * Build real-world projects
@@ -83,20 +83,20 @@ I update this repository regularly as I learn new concepts.
 
 ---
 
-## 📈 Progress Mindset
+##  Progress Mindset
 
-> "Consistency beats intensity" 💪
+> "Consistency beats intensity" 
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Tushar**
 B.Tech IT Student | Aspiring Backend Developer
 
 ---
 
-## ⭐ Support
+##  Support
 
-If you like this project, give it a ⭐ on GitHub!
+If you like this project, give it a  on GitHub!
 # spring-boot-journey
