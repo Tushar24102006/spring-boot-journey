@@ -1,6 +1,9 @@
 package net.engineeringdigest.journalApp.controler;
 
+import net.engineeringdigest.journalApp.Repository.JournalEntryRepository;
 import net.engineeringdigest.journalApp.entity.JournalEntry;
+import net.engineeringdigest.journalApp.services.JournalEntryServices;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
@@ -12,6 +15,9 @@ import java.util.Map;
 @RequestMapping("/journal")
 public class JournalEntryControllerV2 {
 
+
+    @Autowired
+    private JournalEntryServices journalEntryServices;
     @GetMapping
     public List<JournalEntry> getAll(){
     return null;
